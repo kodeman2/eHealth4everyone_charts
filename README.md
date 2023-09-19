@@ -1,10 +1,16 @@
-# vue-e4health
+# vue-eHealth4everyone
+frontend Test for eHealth4everyone
+## Project Description
+A vue app that pulls data from a firebase database and visualizes the information using a bar chart.
 
-This template should help get you started developing with Vue 3 in Vite.
+## Project Requirements
+•	Populate a fire-base database with Generated sample data for 20 people (name, age, blood group)
+•	Build a Vue app that pulls the data using API calls and visualizes this information using a bar chart (from the high-chart library)
+•	The bar chart should show the number of people under each blood group and those with specific age ranges.
+•	The app should work well offline using local storage or index db to achieve this.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+### Name: Oluwakolade Olagunju
+### Email: holuwakoladey@gmail.com
 
 ## Customize configuration
 

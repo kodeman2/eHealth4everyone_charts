@@ -5,8 +5,11 @@ A vue app that pulls data from a firebase database and visualizes the informatio
 
 ## Project Requirements
 •	Populate a fire-base database with Generated sample data for 20 people (name, age, blood group)
+
 •	Build a Vue app that pulls the data using API calls and visualizes this information using a bar chart (from the high-chart library)
+
 •	The bar chart should show the number of people under each blood group and those with specific age ranges.
+
 •	The app should work well offline using local storage or index db to achieve this.
 
 ### Name: Oluwakolade Olagunju

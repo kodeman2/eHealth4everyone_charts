@@ -12,6 +12,8 @@ A vue app that pulls data from a firebase database and visualizes the informatio
 ### Name: Oluwakolade Olagunju
 ### Email: holuwakoladey@gmail.com
 
+### Project URL: https://vue-ehealth4everyone.netlify.app/
+
 ## Customize configuration
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).

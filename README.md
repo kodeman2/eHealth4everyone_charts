@@ -1,5 +1,5 @@
 # vue-eHealth4everyone
-frontend Test for eHealth4everyone
+frontend vue Test for eHealth4everyone
 ## Project Description
 A vue app that pulls data from a firebase database and visualizes the information using a bar chart.
 
